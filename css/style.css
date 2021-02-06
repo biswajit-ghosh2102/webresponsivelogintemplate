@@ -139,11 +139,11 @@ form.sign-in-form {
   border: none;
   outline: none;
   height: 49px;
-  border-radius: 49px;
+  border-radius: 30px;
   color: #fff;
   text-transform: uppercase;
   font-weight: 600;
-  margin: 10px 0;
+  margin: 2px 0;
   cursor: pointer;
   transition: 0.5s;
 }
